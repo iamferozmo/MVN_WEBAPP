@@ -1,0 +1,6 @@
+<html>
+<head> MVN Deployment </head>
+<body>
+<H1> This file is fetch from github by jenkins and deployed by maven through tomcat </H1>
+</body>
+</html>
